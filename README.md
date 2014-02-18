@@ -1,7 +1,7 @@
 # Introduction to Django - Presentation Demos
 
 Django Demo 1 : Simple Hello world app
-Django Demo 2 : Admin interface and implementing urls , admin page etc 
+Django Demo 2 : Admin interface and implementing urls , admin page , admin login ( username: admin , password: admin )
 
 
 Built by:
